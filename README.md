@@ -1,3 +1,11 @@
-# SmartSignLanguageProject
-Smart home for PWD based on sign language recognition.
-The rapid rise in technology, particularly in artificial intelligence, has led to the integration of smart devices into our lives. These systems, including smartphones, cars, and medical devices, have transformed our interactions with the world, making our lives easier and more comfortable. This has led to the proposed graduation project, which aims to transform ideas into tangible reality that serves humanity. The project looks to address the needs of persons with disabilities (PWDs), especially when it comes to facilitating day-to-day activities and their safety at home. To that end, the idea of the project is to create smart home solutions for PWDs, particularly those with speech and hearing disabilities. It uses computer vision techniques to analyze sign language, programming a trained CNN using YOLO model into the raspberry pi to enable the camera to detect the signs. Then, it translates the signs into commands and second actions using output hardware in a high accuracy. The project also includes a fire alarm safety system using Arduino, that employs the use of LED lights to accommodate the special needs of these individuals. 
+Smart Home System for People with Disabilities
+Project Overview: This smart home system leverages sign language recognition to enhance the accessibility and functionality of home automation for people with disabilities (PWD). The project focuses on enabling users to perform everyday tasks through simple sign commands.
+
+Key Features:
+
+Sign Recognition: Utilizes sign language gestures to trigger specific actions within the home environment.
+Control Commands:
+Open/Close Doors and Windows: Users can perform a sign to open or close doors and windows, enhancing ease of access.
+Turn On/Off Lights: A designated sign will control the lighting, allowing for quick adjustments based on user needs.
+Help Sign: Incorporates a help sign that can activate assistance features, ensuring users can easily request help if needed.
+Functionality: The system translates recognized signs into actionable commands, creating a seamless interaction between the user and the home automation system. This integration aims to provide a more independent living experience for PWD.
